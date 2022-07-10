@@ -1,4 +1,4 @@
-<p align="center"> 6
+<p align="center"> 7
   <img width="200" src="https://maximenory.com/pix/logo.png" />
 </p>
 
